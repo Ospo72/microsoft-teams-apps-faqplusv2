@@ -190,7 +190,7 @@
     <comment>Team carousel function card content- team can take the question from the end users through bot.</comment>
   </data>
   <data name="TeamTicketSystemHeaderText" xml:space="preserve">
-    <value>Manage queries</value>
+    <value>Gestionar consultas</value>
     <comment>Title of the query carousel card- ticket system.</comment>
   </data>
   <data name="TeamTicketSystemContent" xml:space="preserve">
@@ -232,11 +232,11 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Response header-letting the user know that a response is generated to their request from QnA Maker.</comment>
   </data>
   <data name="ClosedFactTitle" xml:space="preserve">
-    <value>Closed: </value>
+    <value>Cerrado: </value>
     <comment>Closed fact title is one of the available fact set.</comment>
   </data>
   <data name="DateCreatedDisplayFactTitle" xml:space="preserve">
-    <value>Created: </value>
+    <value>Creado: </value>
     <comment>Created: one of the available fact set in notification cards- created is the title for created date value.</comment>
   </data>
   <data name="ShowCardTitleText" xml:space="preserve">
@@ -244,11 +244,11 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Label text where users enters title for his question or feedback. </comment>
   </data>
   <data name="MandatoryTitleFieldText" xml:space="preserve">
-    <value>Title field is mandatory.</value>
+    <value>El campo Título es obligatorio.</value>
     <comment>Text that suggest users to fill mandatory fields.</comment>
   </data>
   <data name="ResultsFeedbackText" xml:space="preserve">
-    <value>Results feedback</value>
+    <value>Comentarios de resultados</value>
     <comment>This text is used as title for results feedback card.</comment>
   </data>
   <data name="FeedbackAlertText" xml:space="preserve">
@@ -264,7 +264,7 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
-    <value>Compartir comentarios</value>
+    <value>Si mi respuesta, resolvio/o no resolvio, su consulta, puede compartir sus comentarios, Gcs</value>
     <comment>Share feedback display text: text sent to the bot when share feedback button is clicked.</comment>
   </data>
   <data name="SMEAssignedStatus" xml:space="preserve">
@@ -296,7 +296,7 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Go to original thread button available on messaging extension card.</comment>
   </data>
   <data name="NonSMEErrorText" xml:space="preserve">
-    <value>The messaging extension can only be invoked from the channel in which the  app is installed</value>
+    <value>La extensión de mensajería solo se puede invocar desde el canal en el que está instalada la aplicación</value>
     <comment>Error message when a user of non-SME team tries to access messaging extension application</comment>
   </data>
   <data name="AssignedUserNotificationStatus" xml:space="preserve">
@@ -352,7 +352,7 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Ask en expert card subtitle text:lets the user know that SME team member can directly chat with the requester.</comment>
   </data>
   <data name="DescriptionFact" xml:space="preserve">
-    <value>Description:</value>
+    <value>Descripcion:</value>
     <comment>Available factset in user notification and SME facing cards.</comment>
   </data>
   <data name="FeedbackRatingRequired" xml:space="preserve">
@@ -380,11 +380,11 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Take a tour button available for the users on welcome card, through which user can take a tour on bot functionalities in personal scope. </comment>
   </data>
   <data name="TitleFact" xml:space="preserve">
-    <value>Title:</value>
+    <value>Titulo:</value>
     <comment>Title fact is used to show the title entered by the user for his inquiry.</comment>
   </data>
   <data name="TitleRequiredText" xml:space="preserve">
-    <value>Title (Required)</value>
+    <value>Titulo (Required)</value>
     <comment>Title(Required): label of the title text box.</comment>
   </data>
   <data name="NotHelpfulRatingText" xml:space="preserve">
@@ -412,7 +412,7 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Delete confirmation message.</comment>
   </data>
   <data name="DeleteButtonText" xml:space="preserve">
-    <value>Delete</value>
+    <value>Eliminar</value>
     <comment>Delete button text.</comment>
   </data>
   <data name="LastEditedText" xml:space="preserve">
@@ -460,11 +460,11 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>The subtitle at the top of task module while editing the QnA pair.</comment>
   </data>
   <data name="HTMLErrorText" xml:space="preserve">
-    <value>HTML tags are not supported.</value>
+    <value>HTML tags no son soportados.</value>
     <comment>Error message to show if HTML tags are entered on any field while adding or editing the QnA pair.</comment>
   </data>
   <data name="QuestionAlreadyExistsErrorText" xml:space="preserve">
-    <value>Question already exist. please add different question.</value>
+    <value>La pregunta ya existe. por favor agregue una pregunta diferente.</value>
     <comment>Error message to show if question is already existing in the knowledgebase while adding or editing the QnA pair.</comment>
   </data>
   <data name="OpenArticle" xml:space="preserve">
