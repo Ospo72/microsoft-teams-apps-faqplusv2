@@ -264,7 +264,7 @@ Soy su amigable bot que ayuda a brindar apoyo a las personas que interactúan co
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
-    <value>Si mi respuesta, resolvio/o no resolvio, su consulta, puede compartir sus comentarios, Gcs</value>
+    <value>Compartir Comentarios, Gcs</value>
     <comment>Share feedback display text: text sent to the bot when share feedback button is clicked.</comment>
   </data>
   <data name="SMEAssignedStatus" xml:space="preserve">
